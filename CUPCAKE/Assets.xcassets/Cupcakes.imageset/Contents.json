@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "UnicornCupcakesHERO-30b2fd66a8db4a50b90129c402aa25c4 (1).png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "UnicornCupcakesHERO-30b2fd66a8db4a50b90129c402aa25c4 (1)@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "UnicornCupcakesHERO-30b2fd66a8db4a50b90129c402aa25c4 (1)@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
