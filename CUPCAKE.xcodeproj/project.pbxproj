@@ -13,6 +13,8 @@
 		4851F34824755F4A0063E936 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4851F34724755F4A0063E936 /* Assets.xcassets */; };
 		4851F34B24755F4A0063E936 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4851F34A24755F4A0063E936 /* Preview Assets.xcassets */; };
 		4851F34E24755F4A0063E936 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4851F34C24755F4A0063E936 /* LaunchScreen.storyboard */; };
+		4851F356247567090063E936 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4851F355247567090063E936 /* Order.swift */; };
+		4851F358247573FC0063E936 /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4851F357247573FC0063E936 /* AddressView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		4851F34A24755F4A0063E936 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4851F34D24755F4A0063E936 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4851F34F24755F4A0063E936 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4851F355247567090063E936 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+		4851F357247573FC0063E936 /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				4851F34C24755F4A0063E936 /* LaunchScreen.storyboard */,
 				4851F34F24755F4A0063E936 /* Info.plist */,
 				4851F34924755F4A0063E936 /* Preview Content */,
+				4851F355247567090063E936 /* Order.swift */,
+				4851F357247573FC0063E936 /* AddressView.swift */,
 			);
 			path = CUPCAKE;
 			sourceTree = "<group>";
@@ -148,7 +154,9 @@
 			files = (
 				4851F34224755F490063E936 /* AppDelegate.swift in Sources */,
 				4851F34424755F490063E936 /* SceneDelegate.swift in Sources */,
+				4851F356247567090063E936 /* Order.swift in Sources */,
 				4851F34624755F490063E936 /* ContentView.swift in Sources */,
+				4851F358247573FC0063E936 /* AddressView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
